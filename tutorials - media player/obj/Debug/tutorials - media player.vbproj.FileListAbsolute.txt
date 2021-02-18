@@ -1,0 +1,18 @@
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\bin\Debug\tutorials - media player.exe.config
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\bin\Debug\tutorials - media player.exe
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\bin\Debug\tutorials - media player.pdb
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\bin\Debug\tutorials - media player.xml
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.vbprojAssemblyReference.cache
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.vbproj.ResolveComReference.cache
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials___media_player.Form1.resources
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials___media_player.Resources.resources
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.vbproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.vbproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.exe
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.xml
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials - media player.pdb
+C:\Users\Gabi\source\repos\tutorials - media player\tutorials - media player\obj\Debug\tutorials___media_player.Form2.resources
